@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af222c3d.chunk.css",
+    "main.js": "/static/js/main.edf08984.chunk.js",
+    "main.js.map": "/static/js/main.edf08984.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4eb1533d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4eb1533d.js.map",
+    "static/css/2.85f7760d.chunk.css": "/static/css/2.85f7760d.chunk.css",
+    "static/js/2.d6553af7.chunk.js": "/static/js/2.d6553af7.chunk.js",
+    "static/js/2.d6553af7.chunk.js.map": "/static/js/2.d6553af7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.85f7760d.chunk.css.map": "/static/css/2.85f7760d.chunk.css.map",
+    "static/css/main.af222c3d.chunk.css.map": "/static/css/main.af222c3d.chunk.css.map",
+    "static/js/2.d6553af7.chunk.js.LICENSE.txt": "/static/js/2.d6553af7.chunk.js.LICENSE.txt",
+    "static/media/GohanNamek.0f3b41e8.jpg": "/static/media/GohanNamek.0f3b41e8.jpg",
+    "static/media/GohanSSJ.b090ac0d.jpg": "/static/media/GohanSSJ.b090ac0d.jpg",
+    "static/media/GohanSSJ2.f429b960.jpg": "/static/media/GohanSSJ2.f429b960.jpg",
+    "static/media/Gohankid.a1641acc.jpg": "/static/media/Gohankid.a1641acc.jpg",
+    "static/media/UltimateGohan.e56862ca.jpg": "/static/media/UltimateGohan.e56862ca.jpg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/App.css": "/static/media/dragonball.bdad499a.jpg",
+    "static/media/kidGohan.18e2fbae.jpg": "/static/media/kidGohan.18e2fbae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb1533d.js",
+    "static/css/2.85f7760d.chunk.css",
+    "static/js/2.d6553af7.chunk.js",
+    "static/css/main.af222c3d.chunk.css",
+    "static/js/main.edf08984.chunk.js"
+  ]
+}
